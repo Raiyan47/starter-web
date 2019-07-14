@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- Raiyan Rashid <role> -- <twitter>
+    <name> -- Mohammad Raiyan Rashid <role> -- <twitter>
 
 # THANKS
 
