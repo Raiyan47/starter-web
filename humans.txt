@@ -5,7 +5,7 @@
 
 Hi , I am learning rebase conflict
 
-Hi , I am working on DevOps
+Hi , I am working on DevOps training
 
 
 # TEAM
@@ -13,7 +13,6 @@ Hi , I am working on DevOps
 
     <name> -- Mohammad Raiyan Rashid <role> Devops Engineer <twitter>
 
-    <name> --  Raiyan Rashid <role> Devops Admin <twitter>
 
 
     <name> -- Raiyan Rashid <role> Devops Engineer-- <twitter>
