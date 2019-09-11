@@ -1,16 +1,15 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-<<<<<<< HEAD
 Hi , I am learning rebase conflict
-=======
+
 Hi , I am working on DevOps
->>>>>>> 1st file change for rebase conflict
+
 
 # TEAM
 
 
-    <name> -- Mohammad Raiyan Rashid <role> -- <twitter>
+    <name> -- Mohammad Raiyan Rashid <role> Devops Engineer <twitter>
 
     <name> -- Raiyan Rashid <role> Devops Engineer-- <twitter>
 
