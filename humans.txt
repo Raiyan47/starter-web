@@ -2,9 +2,6 @@
 # The humans responsible & technology colophon
 
 
-
-Hi , I am learning rebase conflict
-
 Hi , I am working on DevOps training
 
 
